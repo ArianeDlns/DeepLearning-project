@@ -1,0 +1,6 @@
+opencv-python
+seaborn
+pandas
+numpy
+tensorflow
+torch 
